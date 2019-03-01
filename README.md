@@ -1,4 +1,4 @@
-# 详细的MVP+Retrofit2+Rxjava2+RxLifecycle2.0的项目流程开发
+# 详细的MVP+Retrofit2+Rxjava2+RxLifecycle2.0+Dagger2的项目流程开发
 
 **本次详细的讲解MVP+Retrofit2+Rxjava2+RxLifecycle2.0项目流程，包含了怎么去使用基本的方法去调用服务器一个登录的接口，以及包的创建流程，本文章都为基础知识。基本能使大家看懂。**
 
